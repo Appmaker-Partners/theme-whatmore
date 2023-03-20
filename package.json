@@ -1,0 +1,5 @@
+{
+    "name": "@appmaker-partners/theme-whatmore",
+    "version": "0.1.0",
+    "main": "src/index.js"
+}
